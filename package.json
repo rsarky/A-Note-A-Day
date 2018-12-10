@@ -1,0 +1,20 @@
+{
+  "name": "A-Note-a-Day",
+  "version": "1.0.0",
+  "description": "A daily message giver",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "git add . && git commit -m \"Add message\" && git push origin master"
+  },
+  "author": "Rohit Sarkar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "particles.js": "^2.0.0"
+  }
+}

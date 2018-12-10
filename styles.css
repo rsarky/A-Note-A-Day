@@ -1,0 +1,62 @@
+/* ---- reset ---- */ 
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+canvas {
+    display: block;
+    vertical-align: bottom;
+}
+/* ---- particles.js container ---- */
+#particles-js {
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    /*background-image: url("https://i2.wp.com/freepngimages.com/wp-content/uploads/2016/11/super-moon.png?fit=624%2C624");
+    background-repeat: no-repeat; background-size: 30%; background-position: 50% 10%; */
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    width: 100%;
+    color: white;
+    position: absolute;
+    top: 10%;
+    font-weight: lighter;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    position: absolute;
+    top:3%;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+
+span {
+    display: inline-block;
+    color: red;
+}
+@media (max-width: 400px) {
+    h1 {
+        font-size: 7vw;
+    }
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    width:80%;
+    color: white;
+    position: absolute;
+    top: 22%;
+    left:50%;
+    margin-left: -40%;
+    font-size: 1.2em;
+    font-weight: 500;
+}
