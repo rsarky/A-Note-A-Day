@@ -1,9 +1,12 @@
-# A Note A Day
+# A Note A Day :sparkles::sparkles:
 Leave a special note that your loved one can read everyday.
 
 A small project I made for my girlfriend for our long distance relationship.
 
-The idea is to write a special personalised note for your loved one everyday.
+:star: The idea is to write a special personalised note for your loved one everyday.<br>
+:star: You can write notes for multiple days or just write the note for tomorrow it's up to you.<br>
+:star: Once the notes are written the script will handle things.<br>
+:star: You can also add a Anniversary Date to show `days of togetherness`
 
 ## How to Use
 - Clone this repository.
@@ -14,3 +17,4 @@ The idea is to write a special personalised note for your loved one everyday.
 
 ## Potential Improvements
 - [ ] Make a webapp covering all the functionality.
+- [ ] Reminders to write/read notes.
