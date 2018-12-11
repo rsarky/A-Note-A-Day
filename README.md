@@ -3,6 +3,8 @@ Leave a special note that your loved one can read everyday.
 
 A small project I made for my girlfriend for our long distance relationship.
 
+![Image](./sample.png)
+
 :star: The idea is to write a special personalised note for your loved one everyday.<br>
 :star: You can write notes for multiple days or just write the note for tomorrow it's up to you.<br>
 :star: Once the notes are written the script will handle things.<br>
